@@ -1,12 +1,11 @@
 🇬🇧:
 - 👋 Hi, I’m @Miles-White.
--👀 I’m interested in drones and their applications.
--🌱 I’m currently studying electrical engineering.
--📫 You can reach me at mileswhite345@gmail.com.
--⚡ Fun fact: I am bi-national British-French and I love orienteering.
--I have recently joined GitHub to showcase the work I have done in the past and hopefully gain interest to partner up on future projects.
+- 👀 I’m interested in drones and their applications.
+- 🌱 I’m currently studying electrical engineering.
+- 📫 You can reach me at mileswhite345@gmail.com.
+- ⚡ Fun fact: I am bi-national British-French and I love orienteering.
+- I have recently joined GitHub to showcase the work I have done in the past and hopefully gain interest to partner up on future projects.
 
-🇫🇷:
 - 👋 Bonjour, je suis @Miles-White.
 - 👀 Je m'intéresse aux drones et leurs applications.
 - 🌱 J'étudie actuellement en génie électrique et informatique industrielle.
