@@ -18,7 +18,7 @@
 - 👀 Je m'intéresse aux drones et leurs applications.
 - 🌱 J'étudie actuellement en génie électrique et informatique industrielle.
 - 📫 Vous pouvez me contacter à l'adresse mileswhite345@gmail.com.
-- ⚡ Fait amusant : je suis binational Anglais-Français: et j'adore la course d'orientation🧭.
+- ⚡ Fait amusant : je suis binational :uk: :fr: et j'adore la course d'orientation🧭.
 - J'ai récemment rejoint GitHub pour présenter le travail que j'ai réalisé dans le passé et, espérons-le, susciter de l'intérêt pour collaborer sur des projets futurs.
 
 ---
